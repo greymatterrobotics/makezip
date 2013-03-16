@@ -5,9 +5,7 @@
 
 1. Clone
 1. Clone pyenv to ~/.sr/pyenv from `git://srobo.org/pyenv.git`
-
-`cd ~; mkdir -p .sr; git clone git://srobo.org/pyenv.git .sr/`
-
+	`cd ~; mkdir -p .sr; git clone git://srobo.org/pyenv.git .sr/`
 1. Add directory to $PATH `PATH=$PATH:~/.sr/tools`
 1. Run `makezip.sh` to check
 
